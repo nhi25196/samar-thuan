@@ -1191,12 +1191,12 @@ footer::before {
 }
 
 
-footer #pagewrap #back-top #top {
+#pagewrap #back-top #top {
     z-index: 9;
     position: fixed;
     bottom: 2%;
     right: 2%;
     display: none;
-    font-size: 35px;
-    color: #ffc107;
+    font-size: 30px;
+    color: #f55f8d;
 }
